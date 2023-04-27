@@ -1,3 +1,13 @@
+*{
+  margin: 0;
+}
+body{
+  background-image:url(https://vsthemes.org/uploads/posts/2018-09/1581997379_aesthetic-computer_vsthemes_ru-36.webp);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+
+
+}
 .App {
   text-align: center;
 }

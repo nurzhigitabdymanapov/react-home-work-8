@@ -1,0 +1,39 @@
+.container_content {
+    background-color:  #152ed27a;
+    width: 700px;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 20px;
+  }
+  .ata {
+    display: flex;
+    justify-content: center;
+  }
+  .img {
+    height: 200px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  h2 {
+    padding: 30px 40px;
+    color: white
+  }
+  .star {
+    background-color: #152ed2;
+    width: 100px;
+    height: 30px;
+    padding-top: 8px;
+    padding-bottom: 0;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 20px;
+    color: white
+  }
+  .lk {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+  }
